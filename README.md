@@ -7,7 +7,7 @@ I'm a passionate MERN developer from India 🇮🇳
 
 **About me**
 
-- 📘 Student at LNCT Bhopal
+- 📘 Student at LNCTS Bhopal
 - 💼 Intern At ............
 
 
