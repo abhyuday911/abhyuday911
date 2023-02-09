@@ -3,7 +3,8 @@
 
 <br />
 
-I'm a passionate MERN developer from India 🇮🇳
+I'm a passionate MERN developer from India 🇮🇳.
+I'm currently working on my React.js concepts and looking forward to learning React Native.
 
 **About me**
 
