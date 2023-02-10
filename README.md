@@ -8,17 +8,7 @@ I'm currently working on my React.js concepts and looking forward to learning Re
 - 📘 Student at LNCTS Bhopal
 - 💼 Intern At ............
 
-
-
-<!-- <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="expressjs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhyuday911Dev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Abhyuday's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyuday911Dev&layout=compact&theme=dark&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhyuday911Dev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=prs" alt="Abhyuday's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyuday911Dev&layout=compact&theme=dark&hide_border=true&langs_count=8" /> |
 | ------------- | ------------- |
 
 <br />
