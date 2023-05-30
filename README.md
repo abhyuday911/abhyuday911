@@ -3,8 +3,7 @@
 I'm a passionate MERN developer from India 🇮🇳. <br />
 I'm currently working on my React.js concepts and looking forward to learning React Native.
 
-**About me** 
-
+**About me:** 
 - 📘 Student at LNCTS Bhopal
 - 🎙️ Proficient in Spoken English
 - 💼 Looking For Remote Developer Roles 🐢
