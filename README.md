@@ -6,7 +6,8 @@ I'm currently working on my React.js concepts and looking forward to learning Re
 **About me** 
 
 - 📘 Student at LNCTS Bhopal
-- 💼 Looking For Internship 🐢
+- 🎙️ Proficient in Spoken English
+- 💼 Looking For Remote Developer Roles 🐢
  
 
 | <img style="min-width: 50vw" align="center" src="https://github-readme-stats.vercel.app/api?username=Abhyuday911Dev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&hide=prs" alt="Abhyuday's github stats" /> | <img style="min-width: 50vw" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhyuday911Dev&layout=compact&theme=dark&hide_border=true&langs_count=8" /> |
