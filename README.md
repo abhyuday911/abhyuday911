@@ -1,5 +1,5 @@
 <!-- <p align="center"><a href=""><img width="80%" alt="Hello, I'm Abhyuday. I do open source!" src="" /></a></p> -->
-# Hello, I'm Abhyuday<br />
+# Hello, I'm Abhyuday
 I'm a passionate MERN developer from India 🇮🇳. <br />
 I'm currently working on my React.js concepts and looking forward to learning React Native.
 
