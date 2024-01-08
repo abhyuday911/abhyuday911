@@ -13,4 +13,4 @@ I'm currently working on my React.js concepts and looking forward to learning Re
 | ------------- | ------------- |
 <br /> -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Abhyuday911Dev&theme=onestar&no-frame=true)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Abhyuday911Dev&theme=onestar&no-frame=true) -->
