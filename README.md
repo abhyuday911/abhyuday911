@@ -1,10 +1,10 @@
 <!-- <p align="center"><a href=""><img width="80%" alt="Hello, I'm Abhyuday. I do open source!" src="" /></a></p> -->
 # Hello, I'm Abhyuday
-I'm a passionate MERN developer from India 🇮🇳. <br />
-I'm currently working on my React.js concepts and looking forward to learning React Native.
+A passionate MERN & Three.js developer from India 🇮🇳. <br />
+Currently working on In-depth Next.js concepts and looking forward to learning Devops.
 
 **About me:** 
-- 📘 Student at LNCTS Bhopal
+- 📘 Computer Science undergraduate from LNCTS Bhopal
 - 🎙️ Proficient in Spoken English
 - 💼 Looking For Remote Developer Roles 🐢
  
