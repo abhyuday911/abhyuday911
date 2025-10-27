@@ -4,7 +4,7 @@ A passionate MERN, Next.js & Three.js developer from India 🇮🇳. <br />
 
 
 **About me:** 
-- 📑 Exploring web3 -> Solana smart-contracts.
+- 📑 Exploring web3 -> Solana client & smart-contracts.
 - 📘 CS-AIML [2024] Undergraduate from LNCTS.
 - 🎙️ Proficient in Spoken English.
 - 💼 Looking For Remote Developer Roles. 🐢
