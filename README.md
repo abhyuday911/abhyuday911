@@ -1,11 +1,10 @@
 <!-- <p align="center"><a href=""><img width="80%" alt="Hello, I'm Abhyuday. I do open source!" src="" /></a></p> -->
 # Hello, I'm Abhyuday
-A passionate MERN, Next.js & Three.js developer from India 🇮🇳. <br />
+A passionate MERN, Next.js, Solana & Three.js developer from India 🇮🇳. <br />
 
 
 **About me:** 
 - 📑 Exploring web3 -> Solana client & smart-contracts.
-- 📘 CS-AIML [2024] Undergraduate from LNCTS.
 - 🎙️ Proficient in Spoken English.
 - 💼 Looking For Remote Developer Roles. 🐢
  
