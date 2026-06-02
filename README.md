@@ -1,6 +1,6 @@
 ## Abhyuday
 
-Senior frontend engineer on the real-time layer of trading products: live market data, charts and order flow. Currently on a live multi-chain trading terminal (Solana, BNB, Base, Ethereum), with 92 PRs to production across 7 repos in under 5 months.
+Senior frontend engineer on the real-time layer of trading products: live market data, charts and order flow. Currently on a live multi-chain trading terminal (Solana, BNB, Base, Ethereum, Robinhood Chain), with 92 PRs to production across 7 repos in under 5 months.
 
 | | Before | After |
 |---|---|---|
