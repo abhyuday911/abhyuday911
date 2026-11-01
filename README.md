@@ -7,7 +7,7 @@ Senior frontend engineer on the real-time layer of trading products: live market
 | Solana token click → first candles | 900–1,160 ms | 35–117 ms |
 | Live feed staleness across tabs | 48–85 s | ~1 s |
 | Hidden tab memory after 42 min | 2,569 MB | 68 MB |
-| Balance shown after a trade | 10.3 s | 0.8 s |
+| Portfolio balance after a trade | 10.3 s | 0.8 s |
 
 TypeScript · React · Next.js · WebSockets / SharedWorkers · TradingView · Cloudflare Workers · Solana · Rust · Go
 
