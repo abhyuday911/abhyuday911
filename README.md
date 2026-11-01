@@ -1,6 +1,6 @@
 ## Abhyuday
 
-Senior frontend engineer on the real-time layer of trading products: live market data, charts and order flow. Currently on a live multi-chain trading terminal (Solana, BNB, Base, Ethereum, Robinhood Chain).
+I build the real-time layer of trading products: live market data, charts and order flow. Currently on a live multi-chain trading terminal (Solana, BNB, Base, Ethereum, Robinhood Chain).
 
 | | Before | After |
 |---|---|---|
